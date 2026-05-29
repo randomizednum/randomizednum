@@ -4,6 +4,11 @@ I'm Çınar from Turkey.
 
 For contact: cinarkaraasln@gmail.com
 
+> [!NOTE]
+> I'm not on social media, LinkedIn or similar platforms.[^1]
+
+[^1]: For whatever reason, there seem to be some accounts with my name and my details on these platforms. None of these are me. So here is this bit of information until I sort that out :)
+
 <!--
 **randomizednum/randomizednum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
