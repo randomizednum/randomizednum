@@ -2,7 +2,7 @@
 
 I'm Çınar from Turkey.
 
-For contact: cinarkaraasln@gmail.com
+For contact: cinarkaraasln@gmail.com (or [others](accounts.md))
 
 <!--
 **randomizednum/randomizednum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
