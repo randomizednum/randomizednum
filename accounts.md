@@ -9,7 +9,6 @@ In short; for contact, I prefer email: cinarkaraasln@gmail.com
 | Email | cinarkaraasln@gmail.com |
 | Codeforces | [ckrsln](https://codeforces.com/profile/ckrsln) |
 | Github | [randomizednum](https://github.com/randomizednum) |
-| LinkedIn | [Çınar Karaaslan](https://www.linkedin.com/in/%C3%A7%C4%B1nar-karaaslan-2014a5434/) |
 
 
 I have another email address I actively use; if I've given that address to you in person before, you can use that (and trust mails from that address) as well.
@@ -18,7 +17,7 @@ I also have a Signal account and a phone number; I'm also available there if you
 
 ## Inactive Accounts
 
-I also have accounts on Discord and Telegram, but I rarely log in, and don't care much about security. Note that these are platforms where account hijacking is common.
+I also have accounts on Discord and Telegram, but I rarely log in, and don't care much about security. Note that these are platforms where account hijacking is common. I also have a LinkedIn account [here](https://www.linkedin.com/in/%C3%A7%C4%B1nar-karaaslan-2014a5434/).
 
 ## Non-Options
 
